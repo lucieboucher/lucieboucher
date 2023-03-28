@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vroumette
+- 👋 Hi, I’m @lucieboucher
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Processing
 - 📫 How to reach me: boucher.lucie.2001@gmail.com
