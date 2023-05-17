@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucieboucher
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning text mining, flutter and how to code on an esp32
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me: boucher.lucie.2001@gmail.com
 
 <!---
